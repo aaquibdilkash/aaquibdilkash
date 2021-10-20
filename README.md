@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
-- 💼 &nbsp; Working as a React and React Native Developer at Solera Life Sciences Private Limited.
+- 💼 &nbsp; Worked as a React and React Native Developer at Solera Life Sciences Private Limited.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
 - ✍️ &nbsp; Pursuing MERN stack projects as hobbies/side hustles.
 
