@@ -16,13 +16,14 @@
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   <!--   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) -->
   
 - 🖥 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Redux](https://img.shields.io/badge/-Redux.js-333333?style=flat&logo=redux)
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
