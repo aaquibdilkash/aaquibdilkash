@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
-- 💼 &nbsp; Worked as a React and React Native Developer at Solera Life Sciences Private Limited.
+- 💼 &nbsp; Worked as a Full Stack Developer at Solera Life Sciences Private Limited.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
 - ✍️ &nbsp; Pursuing MERN stack projects as hobbies/side hustles.
 
@@ -16,11 +16,13 @@
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  <!--   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) -->
+  
+- 🖥 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  <!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql) -->
-  <!--   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) -->
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -33,9 +35,9 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
+<!-- - 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 <!--   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
 <!-- - 🖥 &nbsp;
