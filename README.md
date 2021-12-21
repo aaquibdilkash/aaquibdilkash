@@ -8,16 +8,20 @@
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
 - 💼 &nbsp; Worked as a Full Stack Developer at Solera Life Sciences Private Limited.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
-- ✍️ &nbsp; Pursuing MERN stack projects as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Blockchain Development and MERN stack projects as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
+- 🌐 &nbsp;
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum)
+  
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  <!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql) -->
   <!--   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) -->
   
 - 🖥 &nbsp;
