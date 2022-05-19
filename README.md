@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
-- 💼 &nbsp; Workeing as Full Stack Blockchain Developer at Pixel Softwares.
+- 💼 &nbsp; Working as Full Stack Blockchain Developer at Pixel Softwares.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
 - ✍️ &nbsp; Pursuing Blockchain Development and MERN stack projects as hobbies/side hustles.
 
