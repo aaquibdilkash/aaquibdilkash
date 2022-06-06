@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Aaquib. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<h2> Hey there! I'm Aaquib. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px">
 </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
