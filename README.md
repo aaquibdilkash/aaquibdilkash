@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing MBA in Finance at Jamia Millia Islamia University, New Delhi, India.
+- 🎓 &nbsp; Pursuing MBA in Finance & IT at Jamia Millia Islamia University, New Delhi, India.
 - 💼 &nbsp; Working as Full Stack Blockchain Developer at Pixel Softwares.
 - 🎓 &nbsp; Studied Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
