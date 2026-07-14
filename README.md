@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Persuing PhD in Stochastic Volatility Option Pricing.
 - 🎓 &nbsp; MBA in Finance & Operations at Jamia Millia Islamia University, New Delhi, India.
 - 💼 &nbsp; Working as Full Stack Blockchain Developer at Pixel Softwares.
 - 🎓 &nbsp; Studied Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
