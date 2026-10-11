@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Persuing PhD in Stochastic Volatility Option Pricing.
 - 🎓 &nbsp; MBA in Finance & Operations at Jamia Millia Islamia University, New Delhi, India.
-- 💼 &nbsp; Working as Full Stack Blockchain Developer at Pixel Softwares.
+- 💼 &nbsp; Worked as Full Stack Blockchain Developer at Pixel Softwares.
 - 🎓 &nbsp; Studied Electronics and Communication Engineering at Jamia Millia Islamia University, New Delhi, India.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms using Python.
 - ✍️ &nbsp; Pursuing Blockchain Development and MERN stack projects as hobbies/side hustles.
